@@ -7,6 +7,5 @@ public class Main {
         System.out.println("minus = " + calculator.minus(8, 2));
         System.out.println("Judy = " + calculator.multiply(3, 5));
         System.out.println("Johnny " + calculator.divide(6, 3));
-
     }
 }
